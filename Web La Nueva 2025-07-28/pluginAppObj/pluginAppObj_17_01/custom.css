@@ -1,0 +1,15 @@
+#pluginAppObj_17_01.comments {
+	width: 100%;
+}
+
+#pluginAppObj_17_01.likebutton .fb-like[data-action="recommend"][data-layout="button_count"] > span, #pluginAppObj_17_01.likebutton .fb-like[data-action="recommend"][data-layout="button_count"] > span > iframe {
+	width: 129px !important;
+}
+
+#pluginAppObj_17_01.likebutton .fb-like[data-action="recommend"][data-layout="box_count"] > span, #pluginAppObj_17_01.likebutton .fb-like[data-action="recommend"][data-layout="box_count"] > span > iframe {
+	width: 103px !important;
+}
+
+#pluginAppObj_17_01.likebutton .fb-like[data-action="recommend"][data-layout="button"] > span, #pluginAppObj_17_01.likebutton .fb-like[data-action="recommend"][data-layout="button"] > span > iframe {
+	width: 103px !important;
+}
